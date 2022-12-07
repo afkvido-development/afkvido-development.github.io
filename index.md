@@ -6,4 +6,4 @@
 <h1 align="center">afkvidø development</h1>
 
 
-<p>If you're interested in a ton of old/deprecated projects i guess</p>
+<p>Idk why you're here.</p>
